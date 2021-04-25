@@ -3,7 +3,7 @@ package com.yk.hello.a;
 import java.util.concurrent.Callable;
 
 /**
- * 测试
+ * 测试lei
  */
 public class TestB extends TestA implements Callable {
 
